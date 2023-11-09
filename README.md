@@ -11,3 +11,6 @@ El objetivo de este informe, centrado en el análisis de la base de datos de los
 
 A través de este estudio, no solo se presentarán los resultados, sino que también se ofrecerá información útil para los partidos políticos: se proporcionarán dos hojas de cálculo en las cuales se mostrarán aquellas mesas en las cuales se perdió una considerable cantidad de votos en las generales en comparación con las PASO. Quizás estas mesas sean de interés para ambas agrupaciones a la hora de elegir dónde colocar más fiscales. Cabe aclarar que, debido a que se utilizaron los datos provisorios de los resultados de las elecciones, hay mesas que fueron transcritas con errores. Por lo tanto, antes de tomar decisiones basadas en lo que dicen las hojas de cálculo, es aconsejable corroborar que los resultados de las mesas presentadas coincidan con los del escrutinio definitivo.
 
+<hr>
+
+Dado que el tamaño de los archivos utilziados para hacer el analisis es demasiado grande, decid subirlos a una carpeta de google drive: https://drive.google.com/drive/folders/1JWpq3jb9kDcXsEkxYnxLJiRzwTYVWmzQ?usp=sharing
