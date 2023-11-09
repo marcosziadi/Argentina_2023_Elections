@@ -13,4 +13,4 @@ A través de este estudio, no solo se presentarán los resultados, sino que tamb
 
 <hr>
 
-Dado que el tamaño de los archivos utilziados para hacer el analisis es demasiado grande, decid subirlos a una carpeta de google drive: https://drive.google.com/drive/folders/1JWpq3jb9kDcXsEkxYnxLJiRzwTYVWmzQ?usp=sharing
+Dado que el tamaño de los archivos utilizados para hacer el análisis es demasiado grande, decidí subirlos a una carpeta de google drive: https://drive.google.com/drive/folders/1JWpq3jb9kDcXsEkxYnxLJiRzwTYVWmzQ?usp=sharing
