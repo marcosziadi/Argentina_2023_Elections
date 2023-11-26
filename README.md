@@ -1,4 +1,4 @@
-# Elecciones Generales 2023 | Argentina
+# Elecciones 2023 | Argentina
 Desde el 13 de agosto, fecha de las elecciones PASO, en las redes sociales se han desatado discusiones controversiales y especulaciones sobre posibles irregularidades en el proceso electoral.
 
 A lo largo del proceso, se han reportado diversos incidentes, desde la rotura, robo y falsificación de boletas hasta la anulación de votos válidos, errores en el conteo y la transcripción de votos, discrepancias en los valores entre las actas de escrutinio y los telegramas del correo argentino, divergencias entre los telegramas y los datos finales incluidos en la base de datos para publicar los resultados, además de presuntas extorsiones y amenazas a fiscales de partidos específicos.
