@@ -1,0 +1,13 @@
+   En base a la base de datos de los resultados provisorios de las generales y las PASO, filtre aquellas mesas en 
+las cuales LLA perdió cierta cantidad de votos en comparación a las PASO, espero que esto ayude a la hora de decidir
+ donde poner más fiscales. El titulo de cada hoja indica la cantidad de votos porcentualmente hablando que se 
+perdieron de las PASO a las Generales en dichas mesas. Por ejemplo, la hoja 100-90% muestra las mesas del país en las que de las PASO a las Generales se perdió entre el 100% y el 90% de los votos."						
+
+
+   El ID Mesa indica las características de la mesa para encontrarla en resultados.gob.ar			
+
+
+			
+   Si se desea buscar el escrutinio definitivo de una mesa, el ID de la mesa esta creado de la siguiente manera:
+                              Nombre Distrito - Nombre Seccion - Circuito ID - Mesa ID 
+, por lo que con que simplemente pongan el nombre del distrito y el valor de Mesa ID ya van a encontrar la mesa"						
